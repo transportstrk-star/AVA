@@ -1,0 +1,12 @@
+{
+  "name": "FleetShift",
+  "description": "Fleet shift logger & fleet admin control center with watermarked camera verification, ODO tracking, GPS stamps, and clean tester data reset tools.",
+  "requestFramePermissions": [
+    "android.permission.CAMERA",
+    "android.permission.ACCESS_FINE_LOCATION",
+    "android.permission.ACCESS_COARSE_LOCATION"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
